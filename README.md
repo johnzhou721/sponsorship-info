@@ -13,6 +13,9 @@ There are two options for sponsoring my FOSS work:
   
   I already have a sponsor interested in this option; contact me only if you want to be notified when this becomes available, after I set things up.
 
+  This option gets you the following benefits:
+  - You can open issues on this repository to suggest the directions for my future work.  This is only a suggestion; no guarantees made at all unless you take the current route.  Suggestions from sponsors on this repository will take higher precedence over my personal priorities; all issues that are not about this document on this repo made by non-sponsors will be mostly ignored
+
 - **Sponsoring me to develop specific features and bugfixes for projects I contribute to or maintain.**
   Although I can promise to work on these features and bugfixes, I **cannot guarantee** that they will eventually be integrated into the relevant upstream projects if they're not maintained by me.
   
