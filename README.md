@@ -11,9 +11,7 @@ There are 2 options for sponsoring my FOSS work:
 - **Sponsoring me either one-time or at a monthly rate generally** will allow you to pay for my time for contributing to projects/maintaining personal ones, which will encourage me to spend more time doing so;
   **I am not part of any core team, however, and I cannot promise specific features/fixes through a sponsorship.**
   
-  For this option, you should email me at johnzhou721@gmail.com privately so I can set up GitHub Sponsors;  **I need to gauge public interest before I do the setup, as as a minor, taxes, etc. are difficult.**
-
-  **UPDATE:  I already have a sponsor interested in this option; contact me only if you want to be notified when this becomes available.**
+  I already have a sponsor interested in this option; contact me only if you want to be notified when this becomes available, after I set things up.
 
 - **Sponsoring me to develop specific features and bugfixes for projects I contribute to or maintain.**
   Although I can promise to work on such said features and bugfixes upon discussion, I **cannot guarantee** that they will eventually be integrated into the relevant upstream projects if they're not maintained by me.
