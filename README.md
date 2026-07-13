@@ -20,11 +20,17 @@ There are 2 options for sponsoring my FOSS work:
   If I can commit to developing the feature, I will involve a core team member of the relevant project for further discussion.
   **Again, although I can promise to work on a feature or bugfix, I cannot guarantee that it is integrated into the upstream project, if I do not maintain it.**
 
-### Maintained Personal Projects
+### Maintained Personal Applications
 
 - johnzhou721/makenumber
 - johnzhou721/sudoku-solver
+- johnzhou721/tiler
 
 ### Interested features to develop for sponsorship
 
-- (beeware/toga:  Segmented Control widget) [beeware/toga#4470](https://github.com/beeware/toga/issues/4470)
+These are all invididual sponsorships;  Please, see general disclaimers above.  The prices are negotiable, and the amounts listed cover the entirety of the implementation of the ticket (NOT upstream integration).
+
+- Publishing any of the maintained personal apps above onto the app store; $30 per app per supported platform.  For the first sponsorship on macOS / iOS, the amount is $100 to cover for app store distribution costs; you're welcome to pay $100 to cover publication of multiple apps on multiple platforms including iOS/macOS, however.
+- $1000 for (beeware/toga:  Segmented Control widget) [beeware/toga#4470](https://github.com/beeware/toga/issues/4470)
+- $120 for (beeware/toga:  Rendering Canvas Image to Arbitrary Size) [beeware/toga#4535](https://github.com/beeware/toga/issues/4535) -- already implemented in togax-frost, but there's more validation work to do to get it integrated upstream
+- $120 for (beeware/toga:  WinForms DPI Resizing Bugs) [beeware/toga#4486](https://github.com/beeware/toga/issues/4486)
