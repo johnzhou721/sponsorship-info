@@ -35,6 +35,6 @@ These are all invididual sponsorships;  Please, see general disclaimers above.  
 - $120 for (beeware/toga:  Rendering Canvas Image to Arbitrary Size) [beeware/toga#4535](https://github.com/beeware/toga/issues/4535) -- already implemented in togax-frost, but there's more validation work to do to get it integrated upstream
 - $120 for (beeware/toga:  WinForms DPI Resizing Bugs) [beeware/toga#4486](https://github.com/beeware/toga/issues/4486)
 
-If you'd like to sponsor me for any other feature that has a complete design, **contact me first**.
+If you'd like to sponsor me for any other feature that has a complete design, **contact me and I may do it**.
 
 Offers with 3rd-party projects are only for me developing a contribution; the funding and relevant contribution will be treated no differently than other contributions as upstream maintainers.
