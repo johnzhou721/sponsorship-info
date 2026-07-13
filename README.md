@@ -22,9 +22,9 @@ There are 2 options for sponsoring my FOSS work:
 
 ### Maintained Personal Applications
 
-- johnzhou721/makenumber
-- johnzhou721/sudoku-solver
-- johnzhou721/tiler
+- [johnzhou721/makenumber](https://github.com/johnzhou721/makenumber) -- A game where numbers are provided from which to use +, -, *, /, and parenthesis to make other numbers from.
+- [johnzhou721/sudoku-solver](https://github.com/johnzhou721/sudoku-solver) -- A sudoku solver app given known grids.
+- [johnzhou721/tiler](https://github.com/johnzhou721/tiler) -- An app that makes printables with multiple copies of text or image.
 
 ### Interested features to develop for sponsorship
 
