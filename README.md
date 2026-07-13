@@ -22,9 +22,10 @@ There are two options for sponsoring my FOSS work:
 
 ### Maintained Personal Applications
 
-- [johnzhou721/makenumber](https://github.com/johnzhou721/makenumber) -- A game where numbers are provided from which to use +, -, *, /, and parenthesis to make other numbers from.
-- [johnzhou721/sudoku-solver](https://github.com/johnzhou721/sudoku-solver) -- Solves Sudoku puzzles from a given starting grid.
-- [johnzhou721/tiler](https://github.com/johnzhou721/tiler) -- Generates printable sheets containing repeated text or images.
+- [johnzhou721/mouse](https://github.com/johnzhou721/mouse) -- A game testing short-term memory for training focus.  *macOS only* 
+- [johnzhou721/makenumber](https://github.com/johnzhou721/makenumber) -- A game where numbers are provided from which to use +, -, *, /, and parenthesis to make other numbers from. *macOS, Linux (GTK), Windows, iOS, Android*
+- [johnzhou721/sudoku-solver](https://github.com/johnzhou721/sudoku-solver) -- Solves Sudoku puzzles from a given starting grid. *macOS, Linux (GTK), Windows*
+- [johnzhou721/tiler](https://github.com/johnzhou721/tiler) -- Generates printable sheets containing repeated text or images. *macOS, Linux (GTK), Linux (Qt), Windows*
 
 ### Interested features to develop for sponsorship
 
