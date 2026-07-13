@@ -2,6 +2,8 @@
 Sponsorship
 -----------
 
+Updated July 2026
+
 [NOTE:  My Content Author position at CP Initiative is done on another basis for volunteer hours.  The donations below are only for my other contributions to open source.  In other words, **do not donate for my work at CPI.**]
 
 I proactively work on contributions to open source projects such as BeeWare's Toga.
